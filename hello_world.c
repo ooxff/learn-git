@@ -2,7 +2,9 @@
 
 int main(int argc, char *argv[])
 {
-    /* print hello, world. */
+    /*
+     * print hello, world.
+     * */
     printf("Hello, world.\n");
     return 0;
 }
